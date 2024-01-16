@@ -43,4 +43,10 @@ Welcome to the Frontend Bootcamp Website project! This is a responsive and visua
 
 Explore the website to discover the Frontend Bootcamp experience!
 
-Feel free to contribute, suggest improvements, or customize it for your own projects. Happy coding! 😊✨
+## 🚀 Installation
+
+Clone the repository to your local machine using the following command:
+
+```bash
+
+```
