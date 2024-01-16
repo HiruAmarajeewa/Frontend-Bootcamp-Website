@@ -48,5 +48,5 @@ Explore the website to discover the Frontend Bootcamp experience!
 Clone the repository to your local machine using the following command:
 
 ```bash
-
+https://github.com/HiruAmarajeewa/Frontend-Bootcamp-Website.git
 ```
