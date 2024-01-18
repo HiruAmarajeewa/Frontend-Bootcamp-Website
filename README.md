@@ -43,6 +43,9 @@ Welcome to the Frontend Bootcamp Website project! 🌐 This responsive and visua
 1. Clone the repository to your local machine.
 2. Open the `index.html` file in a web browser.
 
+## 🤝 Contributing
+Contributions are welcome! Feel free to open issues or submit pull requests to enhance or fix any issues in the system.
+
 ## 🚀 Installation
 
 Clone the repository to your local machine using the following command:
